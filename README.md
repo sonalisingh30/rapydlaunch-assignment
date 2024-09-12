@@ -3,7 +3,7 @@
 I completed an assignment for Rapydlaunch, where I translated a Figma design into React code. I used Tailwind CSS to style the components and implemented React Router for seamless page navigation.
 
 # Demo
-You can check out the live demo of the components here: [Demo Link]()
+You can check out the live demo of the components here: [Demo Link](https://sonali-rapydlaunch-assignment.netlify.app)
 
 
   
