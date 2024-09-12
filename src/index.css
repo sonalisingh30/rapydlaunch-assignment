@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* McQueenDisplay Black */
+@font-face {
+  font-family: "McQueenDisplay";
+  src: url("/Fonts WEB/McQueenDisplayTrial-Black.woff2") format("woff2"),
+    url("/Fonts WEB/McQueenDisplayTrial-Black.woff") format("woff");
+  font-weight: 900; /* Assuming black as 900 */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "McQueenDisplay";
+  src: url("/Fonts WEB/McQueenDisplayTrial-BlackItalic.woff2") format("woff2"),
+    url("/Fonts WEB/McQueenDisplayTrial-BlackItalic.woff") format("woff");
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* McQueenDisplay Bold */
+@font-face {
+  font-family: "McQueenDisplay";
+  src: url("/Fonts WEB/McQueenDisplayTrial-Bold.woff2") format("woff2"),
+    url("/Fonts WEB/McQueenDisplayTrial-Bold.woff") format("woff");
+  font-weight: 700; /* Bold weight */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "McQueenDisplay";
+  src: url("/Fonts WEB/McQueenDisplayTrial-BoldItalic.woff2") format("woff2"),
+    url("/Fonts WEB/McQueenDisplayTrial-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* McQueenDisplay Medium */
+@font-face {
+  font-family: "McQueenDisplay";
+  src: url("/Fonts WEB/McQueenDisplayTrial-Medium.woff2") format("woff2"),
+    url("/Fonts WEB/McQueenDisplayTrial-Medium.woff") format("woff");
+  font-weight: 500; /* Medium weight */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "McQueenDisplay";
+  src: url("/Fonts WEB/McQueenDisplayTrial-MediumItalic.woff2") format("woff2"),
+    url("/Fonts WEB/McQueenDisplayTrial-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* McQueenDisplay Regular */
+@font-face {
+  font-family: "McQueenDisplay";
+  src: url("/Fonts WEB/McQueenDisplayTrial-Regular.woff2") format("woff2"),
+    url("/Fonts WEB/McQueenDisplayTrial-Regular.woff") format("woff");
+  font-weight: 400; /* Regular weight */
+  font-style: normal;
+}
+
+/* McQueenDisplay Italic */
+@font-face {
+  font-family: "McQueenDisplay";
+  src: url("/Fonts WEB/McQueenDisplayTrial-Italic.woff2") format("woff2"),
+    url("/Fonts WEB/McQueenDisplayTrial-Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* McQueenDisplay Light */
+@font-face {
+  font-family: "McQueenDisplay";
+  src: url("/Fonts WEB/McQueenDisplayTrial-Light.woff2") format("woff2"),
+    url("/Fonts WEB/McQueenDisplayTrial-Light.woff") format("woff");
+  font-weight: 300; /* Light weight */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "McQueenDisplay";
+  src: url("/Fonts WEB/McQueenDisplayTrial-LightItalic.woff2") format("woff2"),
+    url("/Fonts WEB/McQueenDisplayTrial-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+}
+body,
+html {
+  font-family: "McQueenDisplay";
+}
