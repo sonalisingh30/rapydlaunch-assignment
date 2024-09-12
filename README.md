@@ -1,6 +1,6 @@
 # Rapydlaunch-Assignment
 
-This repository contains a collection of reusable React components designed to be flexible, modular, and easy to integrate into your own projects. The components are built with the latest React practices, following best practices for maintainability and scalability.
+I completed an assignment for Rapydlaunch, where I translated a Figma design into React code. I used Tailwind CSS to style the components and implemented React Router for seamless page navigation.
 
 # Demo
 You can check out the live demo of the components here: [Demo Link]()
