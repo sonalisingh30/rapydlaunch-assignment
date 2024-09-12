@@ -25,9 +25,9 @@ To use these components in your project, you need to have Node.js and npm instal
   
 # Technologies Used
 
-  # React: A JavaScript library for building user interfaces.
-  # React DOM: Entry point of React to interact with the DOM.
-  # React Router DOM: Declarative routing for React applications.
+- React: A JavaScript library for building user interfaces.
+- React DOM: Entry point of React to interact with the DOM.
+- React Router DOM: Declarative routing for React applications.
 
 # [Screenshots](<img width="1440" alt="Screenshot 2024-09-12 at 5 45 57 PM" src="https://github.com/user-attachments/assets/991c9f42-587f-4da7-a52f-fb739615a2c3">
 <img width="1440" alt="Screenshot 2024-09-12 at 5 46 15 PM" src="https://github.com/user-attachments/assets/3e975106-a1eb-4088-838a-59b4c1ca54a9">
